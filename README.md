@@ -1,4 +1,4 @@
 # hello-world
-Just another repository
+Test hello-world repository to just get the feeling of github!
 
 I wanna be free like a flying bird. Though you see, the bird is never free under the gravitational force field.
